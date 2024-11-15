@@ -104,9 +104,9 @@ class App extends StatelessWidget {
       title: 'Firebase Meetup',
       theme: ThemeData(
         buttonTheme: Theme.of(context).buttonTheme.copyWith(
-              highlightColor: const Color.fromARGB(255, 104, 57, 185),
+              highlightColor: const Color.fromARGB(255, 129, 77, 220),
             ),
-        primarySwatch: const Color.fromARGB(255, 34, 10, 75),
+        primarySwatch: Colors.deepPurple,
         textTheme: GoogleFonts.robotoTextTheme(
           Theme.of(context).textTheme,
         ),
