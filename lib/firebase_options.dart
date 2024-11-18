@@ -77,4 +77,5 @@ class DefaultFirebaseOptions {
     storageBucket: 'fir-flutter-codelab-16647.firebasestorage.app',
     iosBundleId: 'com.example.gtkFlutter',
   );
+
 }
